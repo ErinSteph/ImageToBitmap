@@ -2,7 +2,9 @@
 <img width="64" height="64" alt="imagetobitmap_icn" src="https://github.com/user-attachments/assets/75d13677-a153-49ec-92fc-700143d4514d" />
 
 # ImageToBitmap
-Converts image files to bitmaps for microcontroller displays, goo for micropython and arduino libraries on ESP32, Raspberry Pi Pico, etc,
+Converts image files to bitmaps for microcontroller displays, good for micropython and arduino libraries on ESP32, Raspberry Pi Pico, etc,
+
+[[Download for Windows]](https://github.com/ErinSteph/ImageToBitmap/raw/refs/heads/main/ImageToBitmap.exe)
 
 <img width="624" height="512" alt="i2b" src="https://github.com/user-attachments/assets/4329d670-99cf-452e-b147-0e86beee6229" />
 
